@@ -1,0 +1,35 @@
+body{
+background-image: url("black.jpg");
+}
+
+h1{
+
+  color: turquoise;
+}
+
+
+h2{
+color: turquoise;
+
+}
+
+h3{
+color: white;
+
+}
+
+h4{
+color: white;
+
+}
+
+h5{
+color: white;
+
+}
+
+a{
+font-size: 30;
+color: white;
+
+}
